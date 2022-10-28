@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.row {
+    display: flex;
+}
+
+.nav{
+    height: 0px;
+    width: 1px;
+}
+
+.row2 {
+    display: flex;
+    height: 400px;
+}
+.row3 {
+    display: flex;
+    height: 150px;
+    display: block;
+}
+
+.banner{
+    height: 117px;
+}
+
+.col {
+    flex: .4;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(0, 25, 44);
+}  
+.col-2 {
+    flex: 3;
+    padding: 0px;
+    margin: 1px;
+    background-color: rgb(78, 100, 90);
+    border-radius: 1.9%;
+}
+.container{
+    background-color: rgb(0, 25, 44);
+    height: 79em;
+}
+
+.col ul{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.row3 a{
+    color: darkkhaki;
+}
+.cajita h2 {
+    border: 1px rgb(41, 41, 41) solid;
+    margin: .2px;
+}
+.cajita p {
+    border: 1px rgb(41, 41, 41) solid;
+    margin: .2px;
+}
+h3{
+    color: white;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.cj3{
+    background: linear-gradient(0deg, rgb(10, 92, 82) 23%, rgb(21, 29, 29) 100%);
+}
+h2{
+    color: white;
+}
+.cj4 h2{
+    border: 1px rgb(41, 41, 41) solid;
+    margin: 0px;
+}
+.cj4 p{
+    border: 1px rgb(41, 41, 41) solid;
+    margin: 0px;
+}
+.cj4 a{
+    border: 1px rgb(43, 43, 43) solid;
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+.logo{
+    margin-left: 1000px;
+    width: 50px;
+    height: 51px;
+}
+li{
+    color: rgb(215, 241, 234);
+}
+ul{
+    background: linear-gradient(0deg, rgb(0, 25, 25) 23%, rgb(177, 200, 200) 100%);
+}
+.bl2{
+    color: lightgreen;
+}
+.img-fin{
+    border: white solid 1px;
+}
